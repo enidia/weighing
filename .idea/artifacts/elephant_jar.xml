@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="elephant:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/elephant_jar</output-path>
+    <root id="archive" name="elephant.jar">
+      <element id="module-output" name="elephant" />
+    </root>
+  </artifact>
+</component>
